@@ -10,6 +10,10 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <App />
+    <p>
+      <a href="https://github.com/solka-77/weather-react">Open-source code</a>,
+      by Nastaran Soltan Karimi
+    </p>
   </React.StrictMode>
 );
 

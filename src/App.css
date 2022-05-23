@@ -28,3 +28,9 @@ ul {
   margin-top: 50px;
   line-height: 25px;
 }
+p {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
